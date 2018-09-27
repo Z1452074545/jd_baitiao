@@ -1,187 +1,185 @@
-                        body {
-                        width: 100%;
-                        height: 100%;
-                        background: #fb5151;
-                    }
-                    
-                    .cont img {
-                        width: 100%;
-                        display: block;
-                    }
-                    
-                    .but_box {
-                        width: 100%;
-                        height: 4rem;
-                        background: #fb5151;
-                    }
-                    
-                    .but_chile {
-                        width: 70%;
-                        margin: 0.1rem auto;
-                    }
-                    
-                    .but_chile a img {
-                        width: 100%;
-                    }
-                    
-                    .txt_rule {
-                        width: 85%;
-                        background: #fff;
-                        margin: 0.2rem auto;
-                        border-radius: 5px;
-                        padding: 0.4rem 0;
-                    }
-                    
-                    .txt_title {
-                        width: 60%;
-                        height: 0.8rem;
-                        margin: 0 auto;
-                        margin-bottom: 0.3rem;
-                    }
-                    
-                    .txt_title img {
-                        display: block;
-                        width: 100%;
-                    }
-                    
-                    .txt_item {
-                        overflow: hidden;
-                        width: 95%;
-                        margin: 0.3rem auto;
-                        font-size: 0.24rem;
-                        margin-top: 1px;
-                    }
-                    
-                    .item_left {
-                        width: 10%;
-                        float: left;
-                    }
-                    
-                    .item_left span {
-                        display: block;
-                        width: 0.3rem;
-                        height: 0.3rem;
-                        background: #fb4450;
-                        margin: 0 auto;
-                        border-radius: 50%;
-                        text-align: center;
-                        line-height: 0.3rem;
-                        color: #fff;
-                    }
-                    
-                    .item_right {
-                        width: 90%;
-                        float: right;
-                    }
-                    
-                    .modai {
-                        width: 100%;
-                        height: 100%;
-                        position: fixed;
-                        top: 0;
-                        left: 0;
-                        background: rgba(210, 210, 210, 0.8);
-                    }
-                    
-                    .modai_start {
-                        width: 70%;
-                        height: 5rem;
-                        background: #fff;
-                        margin: 4rem auto;
-                        border-radius: 5px;
-                        font-size: 0.26rem;
-                        padding-top: 0.2rem;
-                        position: relative;
-                    }
-                    
-                    .madai_title {
-                        width: 98%;
-                        height: 0.6rem;
-                        margin: 0 auto;
-                    }
-                    
-                    .title_left {
-                        float: left;
-                        width: 70%;
-                        height: 0.6rem;
-                    }
-                    
-                    .title_left input {
-                        width: 100%;
-                        height: 0.6rem;
-                        outline: 0 none;
-                        border: none;
-                        border-radius: 6px;
-                        box-sizing: border-box;
-                        padding-left: 1em;
-                        background: #e7e7e7;
-                    }
-                    
-                    .title_right {
-                        float: right;
-                        width: 28%;
-                        height: 0.6rem;
-                        text-align: center;
-                        line-height: 0.6rem;
-                        border-radius: 6px;
-                    }
-                    
-                    .title_right img {
-                        width: 100%;
-                    }
-                    
-                    .modai_cont p {
-                        text-align: center;
-                        color: #0a16ff;
-                    }
-                    
-                    .bottom_but {
-                        position: absolute;
-                        bottom: 0.2rem;
-                        left: 50%;
-                        margin-left: -35%;
-                        width: 70%;
-                        height: 0.6rem;
-                        text-align: center;
-                        background: #e5282e;
-                        line-height: 0.6rem;
-                        border-radius: 8px;
-                        color: #fff;
-                        box-shadow: 2px 2px 5px #333333;
-                    }
-                    
-                    .but_left {
-                        width: 30%;
-                        float: left;
-                    }
-                    
-                    .but_left img {
-                        width: 100%;
-                    }
-                    
-                    .but_right {
-                        width: 30%;
-                        float: right;
-                    }
-                    
-                    .but_right img {
-                        width: 100%;
-                    }
-                    
-                    .modai_code_failed {
-                        height: 1.5rem;
-                    }
-                    
-                    .modai_code_win {
-                        width: 3rem;
-                        height: 3rem;
-                        margin: 0 auto;
-                        margin-top: 0.2rem;
-                        background: #ccc;
-                    }
-                    
-                    .modai_code img {
-                        width: 100%;
-                    }
-                    
-                    .bottom_but {
+body {
+    width: 100%;
+    height: 100%;
+    background: #fb5151;
+}
+
+.cont img {
+    width: 100%;
+    display: block;
+}
+
+.but_box {
+    width: 100%;
+    height: 4rem;
+    background: #fb5151;
+}
+
+.but_chile {
+    width: 70%;
+    margin: 0.1rem auto;
+}
+
+.but_chile a img {
+    width: 100%;
+}
+
+.txt_rule {
+    width: 85%;
+    background: #fff;
+    margin: 0.2rem auto;
+    border-radius: 5px;
+    padding: 0.4rem 0;
+}
+
+.txt_title {
+    width: 60%;
+    height: 0.8rem;
+    margin: 0 auto;
+    margin-bottom: 0.3rem;
+}
+
+.txt_title img {
+    display: block;
+    width: 100%;
+}
+
+.txt_item {
+    overflow: hidden;
+    width: 95%;
+    margin: 0.3rem auto;
+    font-size: 0.24rem;
+    margin-top: 1px;
+}
+
+.item_left {
+    width: 10%;
+    float: left;
+}
+
+.item_left span {
+    display: block;
+    width: 0.3rem;
+    height: 0.3rem;
+    background: #fb4450;
+    margin: 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 0.3rem;
+    color: #fff;
+}
+
+.item_right {
+    width: 90%;
+    float: right;
+}
+
+.modai {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(210, 210, 210, 0.8);
+}
+
+.modai_start {
+    width: 70%;
+    height: 5rem;
+    background: #fff;
+    margin: 4rem auto;
+    border-radius: 5px;
+    font-size: 0.26rem;
+    padding-top: 0.2rem;
+    position: relative;
+}
+
+.madai_title {
+    width: 98%;
+    height: 0.6rem;
+    margin: 0 auto;
+}
+
+.title_left {
+    float: left;
+    width: 70%;
+    height: 0.6rem;
+}
+
+.title_left input {
+    width: 100%;
+    height: 0.6rem;
+    outline: 0 none;
+    border: none;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding-left: 1em;
+    background: #e7e7e7;
+}
+
+.title_right {
+    float: right;
+    width: 28%;
+    height: 0.6rem;
+    text-align: center;
+    line-height: 0.6rem;
+    border-radius: 6px;
+}
+
+.title_right img {
+    width: 100%;
+}
+
+.modai_cont p {
+    text-align: center;
+    color: #0a16ff;
+}
+
+.bottom_but {
+    position: absolute;
+    bottom: 0.2rem;
+    left: 50%;
+    margin-left: -35%;
+    width: 70%;
+    height: 0.6rem;
+    text-align: center;
+    background: #fb4450;
+    line-height: 0.6rem;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px #333;
+}
+
+.but_left {
+    width: 30%;
+    float: left;
+}
+
+.but_left img {
+    width: 100%;
+}
+
+.but_right {
+    width: 30%;
+    float: right;
+}
+
+.but_right img {
+    width: 100%;
+}
+
+.modai_code_failed {
+    height: 1.5rem;
+}
+
+.modai_code_win {
+    width: 3rem;
+    height: 3rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+    background: #ccc;
+}
+
+.modai_code img {
+    width: 100%;
+}
