@@ -4,6 +4,9 @@ var modai_txt = document.querySelector('.modai_cont p');
 var modai_code = document.querySelector('.modai_code');
 var but_get_code = document.querySelector('.but_get_code');
 var bottom_but = document.querySelector('.bottom_but');
+var data = {
+    "title": ''
+}
 but_get_code.onclick = function() {
     modai.style.display = "block";
 }
